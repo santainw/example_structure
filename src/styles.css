@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.navbar {
+  background-color: #181047;
+}
+
+.font-header {
+  color: #ffca28;
+}
+
+.test {
+  min-height: 100vh;
+  background-color: #343573;
+  min-width: 26vh;
+}
