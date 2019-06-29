@@ -1,0 +1,33 @@
+.overview-content {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.title-big {
+    font-size: 25px;
+    padding-bottom: 2rem;
+}
+
+.input-search {
+    width: 60%;
+}
+
+.box-search {
+    padding-bottom: 2rem;
+}
+
+.btn-action {
+    width: 2rem;
+}
+
+.btn-download {
+    background-color: #cbe8ba;
+}
+
+.btn-view {
+    background-color: #c9f1fd;
+}
+
+.btn-delete {
+    background-color: #d9534f;
+}
